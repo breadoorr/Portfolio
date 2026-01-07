@@ -6,6 +6,10 @@
 /out-tsc
 /bazel-out
 
+package-lock.json
+.editorconfig
+app/app.spec.ts
+
 # Node
 /node_modules
 npm-debug.log
